@@ -8,10 +8,9 @@
 ## 1. Introduction
 
 1. Making the most of this course
-watch video multiple times if needed
-take a break if stuck and try again
-use Q&A section
-also use online resources such as stckoverflow
+![](resources/section1/1.1.1.png)
+![](resources/section1/1.1.2.png)
+![](resources/section1/1.1.3.png)
 
 
 
@@ -19,11 +18,13 @@ also use online resources such as stckoverflow
 ![](resources/section1/1.2.1.png)
 ![](resources/section1/1.2.2.png)
 ![](resources/section1/1.2.3.png)
-![](resources/section1/1.2.4.png)
 
 
 
 3. Introduction to Dartpad
+![](resources/section1/1.3.1.png)
+
+
 
 ## 2. Dart Basics
 
