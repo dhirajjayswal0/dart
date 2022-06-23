@@ -1,13 +1,28 @@
 # Dart Course | Notes
 
-![Course Contents](course-contents.png)
+![Course Contents](resources/others/course-contents.png)
+![course repository](https://github.com/bizz84/dart-course-materials)
 
 # Course Syllabus
 
 ## 1. Introduction
 
 1. Making the most of this course
+watch video multiple times if needed
+take a break if stuck and try again
+use Q&A section
+also use online resources such as stckoverflow
+
+
+
 2. Introduction to Dart
+![](resources/section1/1.2.1.png)
+![](resources/section1/1.2.2.png)
+![](resources/section1/1.2.3.png)
+![](resources/section1/1.2.4.png)
+
+
+
 3. Introduction to Dartpad
 
 ## 2. Dart Basics
