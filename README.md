@@ -30,7 +30,6 @@
 
 1. Section Intro
 ![](resources/section2/2.1.1.png)
-![](resources/section2/2.2.1.png)
 
 
 
