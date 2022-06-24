@@ -181,12 +181,51 @@
 ## 3. Dart type system
 
 1. Section Intro
+![](resources/section3/3.1.1.png)
+
+
+
 2. Static vs Dynamic Languages
+![](resources/section3/3.2.1.png)
+![](resources/section3/3.2.2.png)
+![](resources/section3/3.2.3.png)
+![](resources/section3/3.2.4.png)
+![](resources/section3/3.2.5.png)
+![](resources/section3/3.2.6.png)
+
+
+
+
 3. Type inference with `var`
+![](resources/section3/3.3.1.png)
+![](resources/section3/3.3.2.png)
+
+
+
 4. The `final` keyword
+![](resources/section3/3.4.1.png)
+![](resources/section3/3.4.2.png)
+![](resources/section3/3.4.3.png)
+
+
+
 5. The `const` keyword
+![](resources/section3/3.5.1.png)
+![](resources/section3/3.5.2.png)
+![](resources/section3/3.5.3.png)
+
+
+
 6. **Exercise**: `var`, `final` and `const`
+![](resources/section3/3.6.1.png)
+
+
+
 7. The `dynamic` keyword
+![](resources/section3/3.7.1.png)
+![](resources/section3/3.7.2.png)
+
+
 
 ## 4. Control flow
 
