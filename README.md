@@ -76,21 +76,106 @@
 
 
 8. **Exercise**: String interpolation
+![](resources/section2/2.8.1.png)
+
+
+
 9. String Escaping
+![](resources/section2/2.9.1.png)
+![](resources/section2/2.9.2.png)
+![](resources/section2/2.9.3.png)
+
+
+
 10. Multi-line strings
+![](resources/section2/2.10.1.png)
+
+
+
 11. Basic String operations: uppercase and lowercase
+![](resources/section2/2.11.1.png)
+![](resources/section2/2.11.2.png)
+![](resources/section2/2.11.3.png)
+
+
+
 12. Initialization vs Assignment
+![](resources/section2/2.12.1.png)
+
+
+
 13. **Exercise**: Lowercase and uppercase strings
+![](resources/section2/2.13.1.png)
+
+
+
 14. Finding and replacing strings
+![](resources/section2/2.14.1.png)
+![](resources/section2/2.14.2.png)
+![](resources/section2/2.14.3.png)
+
+
+
 15. Conversions between types
+![](resources/section2/2.15.1.png)
+![](resources/section2/2.15.2.png)
+![](resources/section2/2.15.3.png)
+
+
+
 16. Arithmetic operators
+![](resources/section2/2.16.1.png)
+![](resources/section2/2.16.2.png)
+
+
+
 17. **Exercise**: temperature conversion
+![](resources/section2/2.17.1.png)
+
+
+
 18. Increment & decrement operators
+![](resources/section2/2.18.1.png)
+![](resources/section2/2.18.2.png)
+![](resources/section2/2.18.3.png)
+![](resources/section2/2.18.4.png)
+
+
+
 19. Logical & Relational operators
-20. Ternary conditional operator
+![](resources/section2/2.19.1.png)
+![](resources/section2/2.19.2.png)
+![](resources/section2/2.19.3.png)
+![](resources/section2/2.19.4.png)
+
+
+
+20. Ternary / conditional operator
+![](resources/section2/2.20.1.png)
+![](resources/section2/2.20.2.png)
+
+
+
 21. Hex format, bitwise & shifting operators
+![](resources/section2/2.21.1.png)
+![](resources/section2/2.21.2.png)
+![](resources/section2/2.21.3.png)
+![](resources/section2/2.21.4.png)
+![](resources/section2/2.21.5.png)
+
+
+
 22. Comments
+![](resources/section2/2.22.1.png)
+![](resources/section2/2.22.2.png)
+![](resources/section2/2.22.3.png)
+
+
+
 23. Expressions & statements
+![](resources/section2/2.23.1.png)
+![](resources/section2/2.23.2.png)
+
 
 
 ## 3. Dart type system
