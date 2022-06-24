@@ -29,50 +29,50 @@
 ## 2. Dart Basics
 
 1. Section Intro
-![](resources/section1/2.1.1.png)
-![](resources/section1/2.2.1.png)
+![](resources/section2/2.1.1.png)
+![](resources/section2/2.2.1.png)
 
 
 
 2. The `main` method
-![](resources/section1/2.2.1.png)
-![](resources/section1/2.2.2.png)
+![](resources/section2/2.2.1.png)
+![](resources/section2/2.2.2.png)
 
 
 
 3. Hello world
-![](resources/section1/2.3.1.png)
+![](resources/section2/2.3.1.png)
 
 
 
 4. Variable declaration and initialization
-![](resources/section1/2.4.1.png)
-![](resources/section1/2.4.2.png)
-![](resources/section1/2.4.3.png)
-![](resources/section1/2.4.4.png)
+![](resources/section2/2.4.1.png)
+![](resources/section2/2.4.2.png)
+![](resources/section2/2.4.3.png)
+![](resources/section2/2.4.4.png)
 
 
 
 5. Basic types
-![](resources/section1/2.5.1.png)
-![](resources/section1/2.5.2.png)
-![](resources/section1/2.5.3.png)
-![](resources/section1/2.5.4.png)
-![](resources/section1/2.5.5.png)
+![](resources/section2/2.5.1.png)
+![](resources/section2/2.5.2.png)
+![](resources/section2/2.5.3.png)
+![](resources/section2/2.5.4.png)
+![](resources/section2/2.5.5.png)
 
 
 
 6. **Exercise**: printing variables
-![](resources/section1/2.6.1.png)
+![](resources/section2/2.6.1.png)
 
 
 
 7. String Concatenation & Interpolation
-![](resources/section1/2.7.1.png)
-![](resources/section1/2.7.2.png)
-![](resources/section1/2.7.3.png)
-![](resources/section1/2.7.4.png)
-![](resources/section1/2.7.5.png)
+![](resources/section2/2.7.1.png)
+![](resources/section2/2.7.2.png)
+![](resources/section2/2.7.3.png)
+![](resources/section2/2.7.4.png)
+![](resources/section2/2.7.5.png)
 
 
 
