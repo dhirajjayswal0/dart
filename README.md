@@ -230,23 +230,69 @@
 ## 4. Control flow
 
 1. Section Intro
-
+![](resources/section4/4.1.1.png)
 
 
 
 2. If/else statements
+![](resources/section4/4.2.1.png)
+
+
+
 3. **Exercise**: if/else statements
+![](resources/section4/4.3.1.png)
+
+
+
 4. while loops
+![](resources/section4/4.4.1.png)
+![](resources/section4/4.4.2.png)
+
+
+
 5. for loops
+![](resources/section4/4.5.1.png)
+![](resources/section4/4.5.2.png)
+
+
+
 6. **Exercise**: fizz buzz
+![](resources/section4/4.6.1.png)
+![](resources/section4/4.6.2.png)
+
+
+
 7. `break` and `continue`
+![](resources/section4/4.7.1.png)
+![](resources/section4/4.7.2.png)
+
+
+
 8. switch statements
+![](resources/section4/4.8.1.png)
+![](resources/section4/4.8.2.png)
+
+
+
 9. enumerations
+![](resources/section4/4.9.1.png)
+![](resources/section4/4.9.2.png)
+![](resources/section4/4.9.3.png)
+
+
+
 10. **Exercise**: simple calculator
+![](resources/section4/4.10.1.png)
+
+
 
 ## 5. Project: Building a command line app
 
 1. Section intro
+
+
+
+
 2. Installing the Dart SDK
 3. Installing and configuring VS Code
 4. **Project Brief**: Rock, Paper & Scissors
